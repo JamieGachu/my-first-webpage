@@ -1,0 +1,17 @@
+
+h1,h2,h3 {
+  color: blue;
+  text-align: center;
+  text-decoration: underline;
+}
+p {
+  color: green
+  padding: 10px 5px 10px 5px
+  text-align:center;
+  font-style: italic;
+  }
+body {
+  font: 75% georgia, sans-serif;
+  font-size: 21;
+  font-weight: bold;
+}
